@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GreenRenovatedBonds Core
+Comment=GreenRenovatedBonds P2P Cryptocurrency
+Comment[de]=Verbinde mit dem GreenRenovatedBonds peer-to-peer Netzwerk
+Comment[fr]=GreenRenovatedBonds, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GreenRenovatedBonds, eşten eşe kriptografik sanal para birimi
+Exec=greenrenovatedbonds-qt %u
+Terminal=false
+Type=Application
+Icon=greenrenovatedbonds128
+MimeType=x-scheme-handler/greenrenovatedbonds;
+Categories=Office;Finance;

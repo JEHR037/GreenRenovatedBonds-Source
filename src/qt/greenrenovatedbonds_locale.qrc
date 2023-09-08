@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/greenrenovatedbonds_ar.qm</file>
+        <file alias="bg">locale/greenrenovatedbonds_bg.qm</file>
+        <file alias="de">locale/greenrenovatedbonds_de.qm</file>
+        <file alias="en">locale/greenrenovatedbonds_en.qm</file>
+        <file alias="es">locale/greenrenovatedbonds_es.qm</file>
+        <file alias="fi">locale/greenrenovatedbonds_fi.qm</file>
+        <file alias="fr">locale/greenrenovatedbonds_fr.qm</file>
+        <file alias="it">locale/greenrenovatedbonds_it.qm</file>
+        <file alias="ja">locale/greenrenovatedbonds_ja.qm</file>
+        <file alias="ko">locale/greenrenovatedbonds_ko.qm</file>
+        <file alias="nl">locale/greenrenovatedbonds_nl.qm</file>
+        <file alias="pl">locale/greenrenovatedbonds_pl.qm</file>
+        <file alias="pt">locale/greenrenovatedbonds_pt.qm</file>
+        <file alias="ru">locale/greenrenovatedbonds_ru.qm</file>
+        <file alias="sk">locale/greenrenovatedbonds_sk.qm</file>
+        <file alias="sv">locale/greenrenovatedbonds_sv.qm</file>
+        <file alias="th">locale/greenrenovatedbonds_th.qm</file>
+        <file alias="tr">locale/greenrenovatedbonds_tr.qm</file>
+        <file alias="vi">locale/greenrenovatedbonds_vi.qm</file>
+        <file alias="zh_CN">locale/greenrenovatedbonds_zh_CN.qm</file>
+        <file alias="zh_TW">locale/greenrenovatedbonds_zh_TW.qm</file>
+    </qresource>
+</RCC>
